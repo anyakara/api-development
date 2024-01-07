@@ -1,0 +1,6 @@
+python
+fastapi
+pydantic
+bson
+uvicorn
+jwt
