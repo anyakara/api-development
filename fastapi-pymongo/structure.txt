@@ -1,0 +1,23 @@
+FASTAPI-PYMONGO
+    |--app
+        |--__init__.py 
+        |--app.py
+    |--config
+        |--database.py
+    |--env
+    |--models
+        |--todo.py
+    |--routes
+        |--todo_routes.py
+    |--schema
+        |--schemas.py
+    |--tests
+        |--old
+            |--main.py
+            |--test_app.py
+        |--template
+            |--template.py
+            |--test_template.py
+    |--main.py 
+    |--structure.txt
+    |--test_router.py
